@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yogeshysk
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MERN Stack (MongoDB, ExpressJS, ReactJS, Node.js)
+- 👀 I’m Bug Bounty Hunter
+- 🌱 I'm looking for freelance jobs
 - 💞️ I’m looking to collaborate on ...remote based companies
-- 📫 How to reach me ...whatsapp no: 8125373158
+- 📫 How to reach me ... EmailId: yogeshysk4869@gmail.com
 
 <!---
 yogeshysk/yogeshysk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
