@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogeshysk
 - 👀 I’m Bug Bounty Hunter
-- 🌱 I'm looking for freelance jobs
+- 🌱 I'm willing to contribute for any open source projects
 - 💞️ I’m looking to collaborate on ...remote based companies
 - 📫 How to reach me ... EmailId: yogeshysk4869@gmail.com
 
